@@ -7,9 +7,9 @@ class Combination
   end
 end
 
-hoge = Combination.new
-p hoge.calc(4, 1)
-p hoge.calc(4, 2)
-p hoge.calc(4, 3)
-p hoge.calc(4, 4)
+c = Combination.new
+p c.calc(4, 1)
+p c.calc(4, 2)
+p c.calc(4, 3)
+p c.calc(4, 4)
 
