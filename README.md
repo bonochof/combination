@@ -1,4 +1,4 @@
-# 二項係数を求めるプログラム(Binomial coefficient calculators)
+# 二項係数を求めるプログラム
 
 ## 言語
 * C
